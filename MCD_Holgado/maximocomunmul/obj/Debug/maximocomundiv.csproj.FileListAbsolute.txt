@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\bin\Debug\maximocomunmul.dll
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\bin\Debug\maximocomunmul.pdb
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\obj\Debug\maximocomundiv.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\obj\Debug\maximocomundiv.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\obj\Debug\maximocomunmul.dll
+C:\Users\HP\source\repos\SolutionMCD\maximocomunmul\obj\Debug\maximocomunmul.pdb
